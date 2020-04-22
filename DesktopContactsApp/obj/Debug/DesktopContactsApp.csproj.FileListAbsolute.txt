@@ -1,0 +1,64 @@
+C:\Users\Chad\Documents\WPF Masterclass Udemy\Section 6 SQLite\DesktopContactsApp\DesktopContactsApp\bin\Debug\DesktopContactsApp.exe.config
+C:\Users\Chad\Documents\WPF Masterclass Udemy\Section 6 SQLite\DesktopContactsApp\DesktopContactsApp\bin\Debug\DesktopContactsApp.exe
+C:\Users\Chad\Documents\WPF Masterclass Udemy\Section 6 SQLite\DesktopContactsApp\DesktopContactsApp\bin\Debug\DesktopContactsApp.pdb
+C:\Users\Chad\Documents\WPF Masterclass Udemy\Section 6 SQLite\DesktopContactsApp\DesktopContactsApp\obj\Debug\DesktopContactsApp.csprojAssemblyReference.cache
+C:\Users\Chad\Documents\WPF Masterclass Udemy\Section 6 SQLite\DesktopContactsApp\DesktopContactsApp\obj\Debug\MainWindow.g.cs
+C:\Users\Chad\Documents\WPF Masterclass Udemy\Section 6 SQLite\DesktopContactsApp\DesktopContactsApp\obj\Debug\NewContactWindow.g.cs
+C:\Users\Chad\Documents\WPF Masterclass Udemy\Section 6 SQLite\DesktopContactsApp\DesktopContactsApp\obj\Debug\App.g.cs
+C:\Users\Chad\Documents\WPF Masterclass Udemy\Section 6 SQLite\DesktopContactsApp\DesktopContactsApp\obj\Debug\DesktopContactsApp_MarkupCompile.cache
+C:\Users\Chad\Documents\WPF Masterclass Udemy\Section 6 SQLite\DesktopContactsApp\DesktopContactsApp\obj\Debug\DesktopContactsApp_MarkupCompile.lref
+C:\Users\Chad\Documents\WPF Masterclass Udemy\Section 6 SQLite\DesktopContactsApp\DesktopContactsApp\obj\Debug\MainWindow.baml
+C:\Users\Chad\Documents\WPF Masterclass Udemy\Section 6 SQLite\DesktopContactsApp\DesktopContactsApp\obj\Debug\NewContactWindow.baml
+C:\Users\Chad\Documents\WPF Masterclass Udemy\Section 6 SQLite\DesktopContactsApp\DesktopContactsApp\obj\Debug\DesktopContactsApp.g.resources
+C:\Users\Chad\Documents\WPF Masterclass Udemy\Section 6 SQLite\DesktopContactsApp\DesktopContactsApp\obj\Debug\DesktopContactsApp.Properties.Resources.resources
+C:\Users\Chad\Documents\WPF Masterclass Udemy\Section 6 SQLite\DesktopContactsApp\DesktopContactsApp\obj\Debug\DesktopContactsApp.csproj.GenerateResource.cache
+C:\Users\Chad\Documents\WPF Masterclass Udemy\Section 6 SQLite\DesktopContactsApp\DesktopContactsApp\obj\Debug\DesktopContactsApp.csproj.CoreCompileInputs.cache
+C:\Users\Chad\Documents\WPF Masterclass Udemy\Section 6 SQLite\DesktopContactsApp\DesktopContactsApp\obj\Debug\DesktopContactsApp.exe
+C:\Users\Chad\Documents\WPF Masterclass Udemy\Section 6 SQLite\DesktopContactsApp\DesktopContactsApp\obj\Debug\DesktopContactsApp.pdb
+C:\Users\Chad\Documents\WPF Masterclass Udemy\Section 6 SQLite\DesktopContactsApp\DesktopContactsApp\bin\Debug\x86\e_sqlite3.dll
+C:\Users\Chad\Documents\WPF Masterclass Udemy\Section 6 SQLite\DesktopContactsApp\DesktopContactsApp\bin\Debug\x64\e_sqlite3.dll
+C:\Users\Chad\Documents\WPF Masterclass Udemy\Section 6 SQLite\DesktopContactsApp\DesktopContactsApp\bin\Debug\SQLite-net.dll
+C:\Users\Chad\Documents\WPF Masterclass Udemy\Section 6 SQLite\DesktopContactsApp\DesktopContactsApp\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Chad\Documents\WPF Masterclass Udemy\Section 6 SQLite\DesktopContactsApp\DesktopContactsApp\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Chad\Documents\WPF Masterclass Udemy\Section 6 SQLite\DesktopContactsApp\DesktopContactsApp\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Chad\Documents\WPF Masterclass Udemy\Section 6 SQLite\DesktopContactsApp\DesktopContactsApp\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Chad\Documents\WPF Masterclass Udemy\Section 6 SQLite\DesktopContactsApp\DesktopContactsApp\bin\Debug\SQLite-net.xml
+C:\Users\Chad\Documents\WPF Masterclass Udemy\Section 6 SQLite\DesktopContactsApp\DesktopContactsApp\obj\Debug\DesktopContactsApp_Content.g.cs
+C:\Users\Chad\Documents\WPF Masterclass Udemy\Section 6 SQLite\DesktopContactsApp\DesktopContactsApp\obj\Debug\DesktopContactsApp.csproj.CopyComplete
+C:\Users\Chad\Documents\WPF Masterclass Udemy\Section 6 SQLite\DesktopContactsApp\DesktopContactsApp\obj\Debug\DetailsContactWindow.g.cs
+C:\Users\Chad\Documents\WPF Masterclass Udemy\Section 6 SQLite\DesktopContactsApp\DesktopContactsApp\obj\Debug\DetailsContactWindow.baml
+C:\Users\Chad\Documents\WPF Masterclass Udemy\Section 6 SQLite\DesktopContactsApp\DesktopContactsApp\obj\Debug\Controls\ContactControl.g.cs
+C:\Users\Chad\Documents\WPF Masterclass Udemy\Section 6 SQLite\DesktopContactsApp\DesktopContactsApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Chad\Documents\WPF Masterclass Udemy\Section 6 SQLite\DesktopContactsApp\DesktopContactsApp\obj\Debug\Controls\ContactControl.baml
+C:\Users\Chad\Documents\Repository\WPFContacts\DesktopContactsApp\bin\Debug\x86\e_sqlite3.dll
+C:\Users\Chad\Documents\Repository\WPFContacts\DesktopContactsApp\bin\Debug\x64\e_sqlite3.dll
+C:\Users\Chad\Documents\Repository\WPFContacts\DesktopContactsApp\bin\Debug\DesktopContactsApp.exe.config
+C:\Users\Chad\Documents\Repository\WPFContacts\DesktopContactsApp\bin\Debug\DesktopContactsApp.exe
+C:\Users\Chad\Documents\Repository\WPFContacts\DesktopContactsApp\bin\Debug\DesktopContactsApp.pdb
+C:\Users\Chad\Documents\Repository\WPFContacts\DesktopContactsApp\bin\Debug\SQLite-net.dll
+C:\Users\Chad\Documents\Repository\WPFContacts\DesktopContactsApp\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Chad\Documents\Repository\WPFContacts\DesktopContactsApp\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Chad\Documents\Repository\WPFContacts\DesktopContactsApp\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Chad\Documents\Repository\WPFContacts\DesktopContactsApp\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Chad\Documents\Repository\WPFContacts\DesktopContactsApp\bin\Debug\SQLite-net.xml
+C:\Users\Chad\Documents\Repository\WPFContacts\DesktopContactsApp\obj\Debug\DesktopContactsApp.csprojAssemblyReference.cache
+C:\Users\Chad\Documents\Repository\WPFContacts\DesktopContactsApp\obj\Debug\Controls\ContactControl.g.cs
+C:\Users\Chad\Documents\Repository\WPFContacts\DesktopContactsApp\obj\Debug\DetailsContactWindow.g.cs
+C:\Users\Chad\Documents\Repository\WPFContacts\DesktopContactsApp\obj\Debug\MainWindow.g.cs
+C:\Users\Chad\Documents\Repository\WPFContacts\DesktopContactsApp\obj\Debug\NewContactWindow.g.cs
+C:\Users\Chad\Documents\Repository\WPFContacts\DesktopContactsApp\obj\Debug\App.g.cs
+C:\Users\Chad\Documents\Repository\WPFContacts\DesktopContactsApp\obj\Debug\DesktopContactsApp_Content.g.cs
+C:\Users\Chad\Documents\Repository\WPFContacts\DesktopContactsApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Chad\Documents\Repository\WPFContacts\DesktopContactsApp\obj\Debug\DesktopContactsApp_MarkupCompile.cache
+C:\Users\Chad\Documents\Repository\WPFContacts\DesktopContactsApp\obj\Debug\DesktopContactsApp_MarkupCompile.lref
+C:\Users\Chad\Documents\Repository\WPFContacts\DesktopContactsApp\obj\Debug\Controls\ContactControl.baml
+C:\Users\Chad\Documents\Repository\WPFContacts\DesktopContactsApp\obj\Debug\DetailsContactWindow.baml
+C:\Users\Chad\Documents\Repository\WPFContacts\DesktopContactsApp\obj\Debug\MainWindow.baml
+C:\Users\Chad\Documents\Repository\WPFContacts\DesktopContactsApp\obj\Debug\NewContactWindow.baml
+C:\Users\Chad\Documents\Repository\WPFContacts\DesktopContactsApp\obj\Debug\DesktopContactsApp.g.resources
+C:\Users\Chad\Documents\Repository\WPFContacts\DesktopContactsApp\obj\Debug\DesktopContactsApp.Properties.Resources.resources
+C:\Users\Chad\Documents\Repository\WPFContacts\DesktopContactsApp\obj\Debug\DesktopContactsApp.csproj.GenerateResource.cache
+C:\Users\Chad\Documents\Repository\WPFContacts\DesktopContactsApp\obj\Debug\DesktopContactsApp.csproj.CoreCompileInputs.cache
+C:\Users\Chad\Documents\Repository\WPFContacts\DesktopContactsApp\obj\Debug\DesktopContactsApp.csproj.CopyComplete
+C:\Users\Chad\Documents\Repository\WPFContacts\DesktopContactsApp\obj\Debug\DesktopContactsApp.exe
+C:\Users\Chad\Documents\Repository\WPFContacts\DesktopContactsApp\obj\Debug\DesktopContactsApp.pdb
